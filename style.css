@@ -56,7 +56,7 @@
   
   .about-cls {
     display: flex;
-    background-image: url(../images/shapes/7.png);
+    background-image: url(images/shapes/7.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
